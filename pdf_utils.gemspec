@@ -10,9 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Lukas Rieder", "Andreas Korth"]
   s.date = %q{2010-06-03}
-  s.description = %q{    Requires xpdf, pdftk, swftools/pdf2swf and imagemagick.
-    You can check their functionality by running `$ rake check_system_dependencies´.
-}
+  s.description = %q{ Simple description goes here }
   s.email = %q{l.rieder@gmail.com}
   s.files = [
     "Rakefile",
